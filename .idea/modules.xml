@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/A0321I1_HuynhTanTri.iml" filepath="$PROJECT_DIR$/A0321I1_HuynhTanTri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Access modifier, static method, static property/Access modifier, static method, static property.iml" filepath="$PROJECT_DIR$/Access modifier, static method, static property/Access modifier, static method, static property.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction_to_java/Introduction_to_java.iml" filepath="$PROJECT_DIR$/Introduction_to_java/Introduction_to_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeThua/KeThua.iml" filepath="$PROJECT_DIR$/KeThua/KeThua.iml" />
       <module fileurl="file://$PROJECT_DIR$/LopVaDoiTuongTrongJava/LopVaDoiTuongTrongJava.iml" filepath="$PROJECT_DIR$/LopVaDoiTuongTrongJava/LopVaDoiTuongTrongJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/MangVaPhuongThucTrongJava/MangVaPhuongThucTrongJava.iml" filepath="$PROJECT_DIR$/MangVaPhuongThucTrongJava/MangVaPhuongThucTrongJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/VongLapJava/VongLapJava.iml" filepath="$PROJECT_DIR$/VongLapJava/VongLapJava.iml" />
